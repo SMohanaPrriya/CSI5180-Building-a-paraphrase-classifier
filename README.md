@@ -1,1 +1,1 @@
-# CSI5180-Building-a-paraphrase-classifier
+# CSI5180-Building-a-parapharse-classifier
